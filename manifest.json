@@ -1,0 +1,16 @@
+{
+  "name": "IronClad Hardware Billing",
+  "short_name": "IronClad",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0d0c0a",
+  "theme_color": "#fdb813",
+  "description": "Professional Hardware Billing and Inventory System",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3259/3259448.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
